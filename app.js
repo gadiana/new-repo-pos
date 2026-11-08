@@ -1,5 +1,6 @@
 /* app.js — screens and wiring for Store POS (offline PWA). */
 // also added a commment to app.js
+//new changes
 (function () {
   'use strict';
   const APP_VERSION = '1.1.0';

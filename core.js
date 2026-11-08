@@ -2,6 +2,7 @@
  * All money is handled as integer centavos to avoid floating-point errors. */
 
 //we're adding something to core.js
+//new changes in core
 (function (root, factory) {
   if (typeof module === 'object' && module.exports) module.exports = factory();
   else root.Core = factory();
